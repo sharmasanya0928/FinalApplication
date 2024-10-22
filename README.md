@@ -28,7 +28,7 @@ Before building and running the application, ensure you have the following insta
 Start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/final-application.git
+git clone https://github.com/sharmasanya0928/FinalApplication.git
 
 Open the Project in Android Studio
 Launch Android Studio and open the cloned project.
@@ -68,6 +68,6 @@ JUnit 4.13.2: For unit testing.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Replace `(https://github.com/your-username/final-application.git)` with the actual URL of your GitHub repository before submitting the project. You can also create or edit the `LICENSE` file in the repository if needed. This format is optimized for GitHub Markdown rendering.
+Replace `https://github.com/sharmasanya0928/FinalApplication.git` with the actual URL of your GitHub repository before submitting the project. You can also create or edit the `LICENSE` file in the repository if needed. This format is optimized for GitHub Markdown rendering.
 
 
